@@ -168,7 +168,7 @@ Cart-to-Insight/
 ## 🙋 About
 
 This project was built as part of a data analysis portfolio to demonstrate practical EDA skills — data cleaning, visualization, segmentation, cohort analysis, and KPI tracking — using a real-world retail dataset.
-
 ---
 
+---
 > *"Data is just numbers until you ask the right questions."*
